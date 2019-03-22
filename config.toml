@@ -1,0 +1,24 @@
+baseURL = "https://foodie.net.pl"
+languageCode = "pl-pl"
+title = "Foodie"
+theme = "bleach-theme"
+enableEmoji = true
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+comments = false
+
+[params]
+  logo = "/images/logo.jpg"
+  description = "food blog!"
+  author = "Adrianna"
+
+[params.footer]
+  impressum = false
+
+[params.social]
+  github = "https://github.com/odi-adrianna"
+#  linkedin = "<username>"
+#  xing = "<username>"
+#  medium = "<username>"
+#  twitter = "<username>"
+
