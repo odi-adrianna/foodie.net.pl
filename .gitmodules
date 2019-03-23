@@ -1,0 +1,3 @@
+[submodule "themes/bleach-theme"]
+	path = themes/bleach-theme
+	url = https://github.com/digivend/bleach-theme.git
